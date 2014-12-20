@@ -1,0 +1,10 @@
+[package]
+
+name = "fib"
+version = "0.0.1"
+authors = ["Blake Williams <blake@blakewilliams.me>"]
+
+[lib]
+
+name = "fib"
+crate-type = ["dylib"]
